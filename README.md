@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ayommide
+- 👋 Hi, I’m Ayomide
 - 👀 I’m interested in Data Science and Machine Learning programs and opportunities.
 - 🌱 I can code in Python and Java and I can work with basic SQL databases. 
 - 💞️ I’m looking to collaborate on Machine Learning Projects.
